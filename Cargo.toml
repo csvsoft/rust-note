@@ -1,0 +1,8 @@
+[package]
+name = "rust_note"
+version = "0.1.0"
+authors = ["vinson.zhang <vinson.zhang@paytm.com>"]
+edition = "2018"
+
+[dependencies]
+unicode-segmentation = "1.3.0"
